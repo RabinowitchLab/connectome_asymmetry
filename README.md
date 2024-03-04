@@ -8,3 +8,5 @@ The _raw_data_ folder contains all the neuronal connectivity data used generate 
 The _input_files_ folder contains various lists of neurons and classes used in the code.
 
 The _network_files_ folder contains symmetrized and desymmetrized version of networks generated in this study. The algorithms of symmetrization/desymmetrization are included in code. 
+
+[![DOI](https://zenodo.org/badge/766435085.svg)](https://zenodo.org/doi/10.5281/zenodo.10778066)
